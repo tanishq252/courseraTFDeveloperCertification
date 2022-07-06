@@ -1,0 +1,1 @@
+This repo is a collection of all the resources of TensorFlow Developer Certification provided by Deeplearning.ai
